@@ -1,0 +1,16 @@
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.exe
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.deps.json
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.runtimeconfig.dev.json
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.dll
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\ref\DesafioEstacionamento.dll
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\net5.0\DesafioEstacionamento.pdb
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.dll
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\ref\DesafioEstacionamento.dll
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.pdb
+C:\Users\joao.murilo\Desktop\Projetos_C#\Projeto_Estacionamento\DesafioEstacionamento\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\net5.0\DesafioEstacionamento.genruntimeconfig.cache
